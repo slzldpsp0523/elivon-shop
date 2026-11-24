@@ -1,0 +1,7 @@
+# 로컬 개발·점검 도구 (배포 대상 아님)
+tools/
+
+# 사용하지 않는 원본 이미지
+assets/about-atelier.jpg
+
+.DS_Store
